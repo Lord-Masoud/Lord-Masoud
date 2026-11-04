@@ -27,13 +27,16 @@ I'm particularly interested in the intersection of **Design, Technology, and Art
 **Design & Creative**
 - Adobe Photoshop
 - Adobe Illustrator
+- Adobe After effects
 - Figma
+- Adobe Premiere Pro
 
 **Web & Development**
 - HTML5 & CSS3
 - JavaScript
 - WordPress & Elementor
 - Electron
+- woocommerce
 
 **AI & Creative Technology**
 - ComfyUI
